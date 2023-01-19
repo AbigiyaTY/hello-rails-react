@@ -14,7 +14,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 One App React ](#-one-app-react-)
+- [📖 Hello Rails React ](#-one-app-react-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 One App React <a name="about-project"></a>
+# 📖 Hello Rails React <a name="about-project"></a>
 
 **One App React** is about setting up "Hello world" project as one app with Webpack
 
@@ -77,8 +77,8 @@
 
 To get a local copy up and running, follow these steps.
 ````
-git clone https://github.com/AbigiyaTY/one-app.git
-cd one-app
+git clone https://github.com/AbigiyaTY/hello-rails-react.git
+cd hello-rails-react
 ls
 ````
 
