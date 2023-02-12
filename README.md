@@ -24,7 +24,7 @@
 
 # 📖 Hello Rails React <a name="about-project"></a>
 
-**One App React** is about setting up "Hello world" project as one app with Webpack
+> Hello world app is about setting up Hello world project as one app with Webpack. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
